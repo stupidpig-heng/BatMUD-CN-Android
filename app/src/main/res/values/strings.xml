@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BatMUD CN</string>
+    <string name="status_connecting">正在连接…</string>
+    <string name="status_connected">已连接</string>
+    <string name="status_disconnected">已断开</string>
+    <string name="cmd_hint">输入命令…</string>
+    <string name="settings">设置</string>
+    <string name="server_host">服务器地址</string>
+    <string name="server_port">端口</string>
+    <string name="baidu_app_id">百度 APP ID</string>
+    <string name="baidu_secret_key">百度 Secret Key</string>
+    <string name="model_type">翻译模型</string>
+    <string name="translation_enabled">启用翻译</string>
+    <string name="cache_size">缓存条数</string>
+    <string name="min_chars">最少翻译字符数</string>
+    <string name="debug_panel">调试面板</string>
+</resources>

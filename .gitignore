@@ -1,0 +1,36 @@
+# Build outputs
+/app/build/
+/build/
+/.gradle/
+/.kotlin/
+*.apk
+*.aab
+*.backup.*
+
+# IDE
+/.idea/
+/.vscode/
+*.iml
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android SDK / JDK (local toolchains — not part of the project)
+/android-sdk/
+/jdk21/
+/jdk21.zip
+/gradle-*.zip
+/android-cmdline-tools.zip
+
+# Local configuration (contains SDK path)
+/local.properties
+
+# Signing keys
+*.jks
+*.keystore
+
+# Debug
+*.log
